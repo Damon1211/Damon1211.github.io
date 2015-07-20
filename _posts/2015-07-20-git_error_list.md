@@ -2,7 +2,7 @@
 layout: post
 title: "Git错误列表"
 description: ""
-category: IT_Tech
+category: 技术相关
 tags: [Git]
 ---
 {% include JB/setup %}

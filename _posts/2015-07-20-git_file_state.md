@@ -2,7 +2,7 @@
 layout: post
 title: "Git文件状态说明"
 description: ""
-category: IT_Tech
+category: 技术相关
 tags: [Git]
 ---
 {% include JB/setup %}

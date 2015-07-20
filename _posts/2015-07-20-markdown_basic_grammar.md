@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown基础语法"
 description: ""
-category: IT_TECH
+category: 技术相关
 tags: [Markdown]
 ---
 {% include JB/setup %}

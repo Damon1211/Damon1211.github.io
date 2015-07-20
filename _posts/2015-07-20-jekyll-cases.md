@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll 使用案例"
 description: ""
-category: IT_TECH
+category: 技术相关
 tags: [Jekyll]
 ---
 {% include JB/setup %}

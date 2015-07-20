@@ -2,7 +2,7 @@
 layout: post
 title: "如何使用git"
 description: ""
-category: IT_Tech
+category: 技术相关
 tags: [Git]
 ---
 {% include JB/setup %}
