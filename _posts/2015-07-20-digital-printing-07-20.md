@@ -8,4 +8,12 @@ tags: [佳艺佳创意设计]
 {% include JB/setup %}
 
 
-digital-priting
+
+
+> 公司作品查看:[http://user.qzone.qq.com/714463898?ptlang=2052](http://user.qzone.qq.com/714463898?ptlang=2052)
+>
+> 联系人：邢洁
+>
+> 联系电话：18612755127
+>
+> QQ号：714463898
