@@ -22,9 +22,6 @@ Jekyll 官放文档: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 >	
 >	2.Life is like a box of chocolates, you never konw what you're going to get.
 >
->
->
->
 
 ---
 
