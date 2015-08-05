@@ -8,9 +8,9 @@ tags: [视频]
 {% include JB/setup %}
 
 
-# 颠覆性创新研习社(Disruptive innovation)
+## 颠覆性创新研习社(Disruptive innovation)
 
-# 2015年07月27日培训
+## 2015年07月27日培训
 
 [见识比知识更重要](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=8992BB3E83BD760D9C33DC5901307461) 
 
@@ -21,7 +21,7 @@ tags: [视频]
 [持续性技术与破坏性创新](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=0C32E6097F99626F9C33DC5901307461)
 
 
-# 2015年07月28日培训
+## 2015年07月28日培训
 
 [颠覆式创新的秘密是“技术加速进步”](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=B8040BD03937B2CA9C33DC5901307461)
 
@@ -30,7 +30,7 @@ tags: [视频]
 [大道至简法则](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=CC53A27997F408139C33DC5901307461)
 
 
-# 2015年07月29日培训
+## 2015年07月29日培训
 
 [大道至简法则](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=CC53A27997F408139C33DC5901307461)
 
@@ -38,22 +38,22 @@ tags: [视频]
 
 [小型钢厂如何打败大型钢厂](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=179D7E2F4A35BF779C33DC5901307461)
 
-# 2015年07月30日培训
+## 2015年07月30日培训
 
 [Intel、AMD、ARM三国大战](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=EDF147889B6F50F69C33DC5901307461)
 
 [不对称竞争](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=9B81F9AC7A43567B9C33DC5901307461)
 
-# 2015年07月31日培训
+## 2015年07月31日培训
 
 
-# 2015年08月01日培训
+## 2015年08月01日培训
 
 [客户是最大的盲区](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=7C47DB564D2826899C33DC5901307461)
 
 [华为深陷“创新者的窘境”](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=386525D9BA72D23E9C33DC5901307461)
 
-# 2015年08月03日培训
+## 2015年08月03日培训
 
 [客户是最大的盲区](http://p.bokecc.com/qrplay.bo?uid=EC513653A92CE00D&vid=7C47DB564D2826899C33DC5901307461)
 
