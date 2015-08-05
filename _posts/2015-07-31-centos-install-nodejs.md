@@ -7,6 +7,8 @@ tags: [NodeJs]
 ---
 {% include JB/setup %}
 
+
+
 准备命令：
 
 	yum -y install gcc make gcc-c++ openssl-devel wget
