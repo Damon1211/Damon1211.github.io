@@ -25,6 +25,16 @@ Jekyll 官放文档: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ---
 
+
+
+<!--![alt text](/assets/resources/imgs/erweima.jpg "Er Wei Ma")-->
+
+
+
+
+<!-- ![alt text](/assets/resources/imgs/weixin-yl.png "Er Wei Ma") -->
+
+
 ## To-Do
 
 [please fork](https://github.com/Damon1211)!
