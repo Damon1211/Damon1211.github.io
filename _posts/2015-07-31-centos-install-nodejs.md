@@ -2,12 +2,13 @@
 layout: post
 title: "Centos 安装 NodeJs"
 description: ""
-category:集成篇 
+category: 集成篇
 tags: [NodeJs]
 ---
 {% include JB/setup %}
 
 
+---
 
 准备命令：
 

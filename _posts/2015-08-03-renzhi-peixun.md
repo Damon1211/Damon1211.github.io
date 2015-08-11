@@ -3,7 +3,7 @@ layout: post
 title: "认知培训-见识"
 description: ""
 category: "技能提升"
-tags: [视频]
+tags: [小憩一下]
 ---
 {% include JB/setup %}
 
