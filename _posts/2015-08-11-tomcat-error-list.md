@@ -15,3 +15,8 @@ tags: [Tomcat]
 	修改project的.setting folder下面org.eclipse.wst.common.project.facet.core.xml文件，里面配置有各种版本信息。
 
 	把<installed facet="jst.web" version="3.0"/> 改成低些的版本version="2.5" 
+
+
+
+
+---
