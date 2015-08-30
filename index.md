@@ -9,6 +9,8 @@ My Blog [我的博客](http://www.zhangyongle.com)
 
 佳艺佳图文快印 [创意设计，数码印刷](http://www.zhangyongle.com/categories.html#数码印刷-ref)
 
+图文印刷 [案例展示](http://user.qzone.qq.com/714463898?ptlang)
+
 Read [Jekyll快速指南](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Jekyll 官放文档: [Jekyll Bootstrap](http://jekyllbootstrap.com)
