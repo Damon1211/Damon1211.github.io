@@ -2,7 +2,7 @@
 layout: post
 title: "更改Linux yum源"
 description: ""
-category: 
+category: 技术相关
 tags: [linux]
 ---
 {% include JB/setup %}
