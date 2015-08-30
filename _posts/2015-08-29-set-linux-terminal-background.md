@@ -10,8 +10,6 @@ tags: [linux]
 ---
 
 
-####设置Linux终端背景色透明
-
 1.安装gconf-editor
 
 	yum install gconf-editor后
