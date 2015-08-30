@@ -9,7 +9,6 @@ tags: [linux]
 
 ---
 
-
 1.安装gconf-editor
 
 	yum install gconf-editor后
