@@ -7,6 +7,8 @@ tagline: 生活就像一杯浓酒，不经三番五次的提炼，就不会这�
 
 My Blog [我的博客](http://www.zhangyongle.com)
 
+佳艺佳图文快印 [创意设计，数码印刷](http://www.zhangyongle.com/categories.html#数码印刷-ref)
+
 Read [Jekyll快速指南](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Jekyll 官放文档: [Jekyll Bootstrap](http://jekyllbootstrap.com)
@@ -23,6 +25,8 @@ Jekyll 官放文档: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 >	2.Life is like a box of chocolates, you never konw what you're going to get.
 >
 >	3.世界上最可怕的事莫过于比你优秀的人比你还努力.
+>
+>	4.人生之光荣，不在永不失败，而在能屡败屡战 --拿破仑
 >
 ---
 
